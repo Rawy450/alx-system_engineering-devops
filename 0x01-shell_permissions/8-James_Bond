@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chown 007 hello 
+=======
+chmod 007 hello
+>>>>>>> 686034eee909373e245c558bf623d7ea0ec6cf98
