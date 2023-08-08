@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$PATH:/actin" 
+echo -e "$PATH:/actin"
